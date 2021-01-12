@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+}
+
+
+body {
+background:purple ;
+padding: 20px;
+}
+.reto{
+    padding: 20px;
+background:black;
+}
+
+.blog{
+padding: 20px;
+background: crimson;
+}
+
+.inicio{
+    padding: 20px;
+background: darkgoldenrod;
+}
